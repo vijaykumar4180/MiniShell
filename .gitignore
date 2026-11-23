@@ -1,0 +1,8 @@
+*.o
+msh
+*.exe
+*.dll
+*.so
+*.dylib
+*.Zone.Identifier
+*:Zone.Identifier
